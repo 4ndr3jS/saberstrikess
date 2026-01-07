@@ -1,0 +1,7 @@
+{
+  "name": "Saber strike",
+  "description": "",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
